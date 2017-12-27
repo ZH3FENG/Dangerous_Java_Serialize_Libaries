@@ -1,75 +1,78 @@
-Name	Version
-Apache Directory API All	1.0.0-M31
-Apache Directory API All	1.0.0-M32
-Apache Jena - Fuseki Server Standalone Jar	2.0.0
-Apache Jena - Fuseki Server Standalone Jar	2.3.0
-flink-core	0.9.0-hadoop1
-flink-core	0.9.0
-flink-shaded-include-yarn	0.9.0
-flink-shaded-include-yarn	0.9.0-milestone-1
-jcaptcha-all	1.0-RC6
-jcaptcha-all	1.0-RC5
-Mule Core	2.1.0
-Mule Core	2.1.2
-JMS Transport	3.0.0-M2-20091124
-JMS Transport	3.3-M1
-Spring XD DIRT	1.0.3.RELEASE
-Spring XD DIRT	1.0.4.RELEASE
-Webx All-in-one Bundle	3.2.3
-Webx All-in-one Bundle	3.0.14
-hadoop-mapreduce-client-core	2.6.2
-hadoop-mapreduce-client-core	2.6.0
-Commons BeanUtils Core	1.8.3
-Commons BeanUtils Core	1.8.2
-Apache Hadoop Common	2.6.2
-Apache Hadoop Common	2.5.2
-Commons Collections	20031027
-Commons Collections	3.2.1
-OpenJPA Utilities Library	2.3.0
-OpenJPA Utilities Library	2.2.2
-OpenJPA Kernel	2.3.0
-OpenJPA Kernel	2.2.2
-OpenJPA Persistence	1.2.3
-JasperReports	6.2.0
-JasperReports	6.0.2
-Isis MetaModel	1.0.0
-Isis MetaModel	1.1.0
-AutoValue	1
-AutoValue	1.0-rc4
-Core	1.6.2
-Core	1.6.1
-velocity:velocity-dep	1.5-beta2
-Apache Commons Collections	4
-HBase - Common	0.98.9-hadoop1
-HBase - Common	0.98.7-hadoop1
-Apache Directory Shared LDAP	0.9.11
-org.springframework:spring	2.5.6.SEC03
-org.springframework:spring	2.5.6.SEC02
-Apache MyFaces JSF-2.2 Core Impl	1.2.5
-Apache MyFaces JSF-2.2 Core Impl	2.2.7
-jung-visualization	2.0.1
-jung-visualization	2
-HBase - Server	0.98.10.1-hadoop2
-HBase - Server	0.98.7-hadoop2
-org.apache.pig pig	0.15.0
-com.google.gwt gwt-dev	2.7.0
-larvalabs collections	4.01
-org.opensymphony.quartz quartz	1.6.1
-Apache Commons BeanUtils	1.9.2
-Apache Commons BeanUtils	1.9.1
-Apache Crunch Core	0.13.0
-JasperReports	3.5.2
-JasperReports	3.5.1
-ApacheDS MVCC BTree implementation	1.0.0-M7
-ApacheDS All	2.0.0-M18
-ApacheDS All	2.0.0-M17
-ESAPI (only Base64.decodeToObject())	2.1.0
-ESAPI (only Base64.decodeToObject())	2.0.1
-OpenJPA Aggregate Jar	2.3.0
-OpenJPA Aggregate Jar	2.2.2
-quartz	1.6.3
-quartz	1.6.0
+
+/*
+* @see
+# https://www.sourceclear.com/blog/Commons-Collections-Deserialization-Vulnerability-Research-Findings/
+**/
 
 
-Reference:
-https://www.sourceclear.com/blog/Commons-Collections-Deserialization-Vulnerability-Research-Findings/
+Name											Version
+Apache Directory API All						1.0.0-M31
+Apache Directory API All						1.0.0-M32
+Apache Jena - Fuseki Server Standalone Jar		2.0.0
+Apache Jena - Fuseki Server Standalone Jar		2.3.0
+flink-core										0.9.0-hadoop1
+flink-core										0.9.0
+flink-shaded-include-yarn						0.9.0
+flink-shaded-include-yarn						0.9.0-milestone-1
+jcaptcha-all									1.0-RC6
+jcaptcha-all									1.0-RC5
+Mule Core										2.1.0
+Mule Core										2.1.2
+JMS Transport									3.0.0-M2-20091124
+JMS Transport									3.3-M1
+Spring XD DIRT									1.0.3.RELEASE
+Spring XD DIRT									1.0.4.RELEASE
+Webx All-in-one Bundle							3.2.3
+Webx All-in-one Bundle							3.0.14
+hadoop-mapreduce-client-core					2.6.2
+hadoop-mapreduce-client-core					2.6.0
+Commons BeanUtils 								1.8.3
+Commons BeanUtils Core							1.8.2
+Apache Hadoop Common							2.6.2
+Apache Hadoop Common							2.5.2
+Commons Collections								20031027
+Commons Collections								3.2.1
+OpenJPA Utilities Library						2.3.0
+OpenJPA Utilities Library						2.2.2
+OpenJPA Kernel									2.3.0
+OpenJPA Kernel									2.2.2
+OpenJPA Persistence								1.2.3
+JasperReports									6.2.0
+JasperReports									6.0.2
+Isis MetaModel									1.0.0
+Isis MetaModel									1.1.0
+AutoValue										1
+AutoValue										1.0-rc4
+Core											1.6.2
+Core											1.6.1
+velocity:velocity-dep							1.5-beta2
+Apache Commons Collections						4
+HBase - Common									0.98.9-hadoop1
+HBase - Common									0.98.7-hadoop1
+Apache Directory Shared LDAP					0.9.11
+org.springframework:spring						2.5.6.SEC03
+org.springframework:spring						2.5.6.SEC02
+Apache MyFaces JSF-2.2 Core Impl				1.2.5
+Apache MyFaces JSF-2.2 Core Impl				2.2.7
+jung-visualization								2.0.1
+jung-visualization								2
+HBase - Server									0.98.10.1-hadoop2
+HBase - Server									0.98.7-hadoop2
+org.apache.pig pig								0.15.0
+com.google.gwt gwt-dev							2.7.0
+larvalabs collections							4.01
+org.opensymphony.quartz quartz					1.6.1
+Apache Commons BeanUtils						1.9.2
+Apache Commons BeanUtils						1.9.1
+Apache Crunch Core								0.13.0
+JasperReports									3.5.2
+JasperReports									3.5.1
+ApacheDS MVCC BTree implementation				1.0.0-M7
+ApacheDS All									2.0.0-M18
+ApacheDS All									2.0.0-M17
+ESAPI (only Base64.decodeToObject())			2.1.0
+ESAPI (only Base64.decodeToObject())			2.0.1
+OpenJPA Aggregate Jar							2.3.0
+OpenJPA Aggregate Jar							2.2.2
+quartz											1.6.3
+quartz											1.6.0
